@@ -27,7 +27,7 @@ python train.py --train-data /path/to/train/dataset/*.root \
                 --variables trkvtx \
                 --clusters 33 \
                 --depth 2 \
-                --signal hf_vs_l
+                --signal hf_vs_l \
                 --jobid jetvlad_run_hf_vs_l_depth_2_clusters_33
 ```
 Trained model, PR and ROC curves will be saved at `training_runs/jetvlad_run_hf_vs_l_depth_2_clusters_33`.
