@@ -1,0 +1,15 @@
+name: netvlad-pytorch
+channels:
+  - pytorch
+dependencies:
+  - python=3.6
+  - pip
+  - numpy
+  - matplotlib
+  - jupyterlab
+  - scikit-learn
+  - cudatoolkit=10.0
+  - pytorch=1.1.0
+  - torchvision
+  - pip:
+      - uproot
