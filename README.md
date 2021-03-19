@@ -2,7 +2,7 @@
 
 [Identifying Heavy-Flavor Jets Using Vectors of Locally Aggregated](https://arxiv.org/abs/2005.01842)  
 Jana Bielčíková, Raghav Kunnawalkam Elayavalli, Georgy Ponimatkin, Jörn H. Putschke, Josef Šivic  
-Submitted to the Journal of Instrumentation (JINST)
+JINST 16 P03017
   
 ### Dependecies
 Create a new conda environment i.e.
